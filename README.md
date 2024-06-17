@@ -1,2 +1,2 @@
-# prueba_repositorio
-Este es un repositorio de prueba
+# Mi prueba repositorio
+Esta es mi prueba de repositorio
